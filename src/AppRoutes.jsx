@@ -7,12 +7,14 @@ export default class AppRoutes extends Component {
     return (
       <>
       <div>
+      <div>
         <Header/>
         </div>
         <div className="flex-container">
         <SideDrawer/>
         <div>
         Container
+        </div>
         </div>
         </div>
       </>
