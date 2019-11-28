@@ -1,0 +1,15 @@
+.search_bar{
+  padding:0.5rem;
+  width:80%;
+  font-size: 0.8rem;
+}
+.SearchBarContainer{
+  width:50%;
+}
+.search_button{
+  padding:0.65rem;
+
+  width:70px;
+  cursor:pointer;
+  background-color: #F8F8F8;
+}
