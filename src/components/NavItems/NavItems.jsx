@@ -1,7 +1,6 @@
 import React from "react"
 
 import NavItem from "./NavItem/NavItem";
-import * as linksUtil from "../../utils/NavDummyLinks";
 import "./NavItems.css"
 
 
