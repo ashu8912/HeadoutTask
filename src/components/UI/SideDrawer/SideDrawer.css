@@ -1,0 +1,15 @@
+.SideDrawer{
+ background-color: white;
+ width:20%;
+ height:100vh;
+ overflow: scroll;
+}
+
+.seperator{
+  border-bottom: 1px solid gainsboro;
+}
+.title{
+  text-align: left;
+  padding:0;
+  margin-left:1rem;
+}

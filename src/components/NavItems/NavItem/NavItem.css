@@ -1,0 +1,29 @@
+li{
+  list-style-type: none;
+  text-align: left;
+  font-size: 1rem;
+  color:black;
+}
+
+.icon{
+  padding:1rem;
+  font-size: 1.2rem;
+  margin-right:1rem;
+}
+.name{
+  padding:1rem;
+  vertical-align: center;
+}
+.avatar,img{
+  width:30px;
+  height:30px;
+  border-radius: 50%;
+  
+}
+img{
+  vertical-align: middle;
+}
+.avatar{
+  padding:1rem;
+
+}
